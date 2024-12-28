@@ -195,9 +195,9 @@ Você pode encontrar algumas dessas ideias na ferramenta [README Creator](https:
 
 <!--  Git Stats -->
 <div align="center">
-  <a href="https://github.com/CaueFidelis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaueFidelis&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=c9d1d9&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauefidelis&layout=compact&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=c9d1d9%22"/>
+  <a href="https://github.com/felipetaua">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=c9d1d9&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&layout=compact&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=c9d1d9%22"/>
   </a>
 </div>
 <!-- /Git Stats -->
@@ -229,8 +229,8 @@ Você pode encontrar algumas dessas ideias na ferramenta [README Creator](https:
 <div align="center">
     <a href="https://api.whatsapp.com/send/?phone=5511989247421&text=Olá%2C+vi+o+seu+GitHub+e+queria+conversar+com+você%21&type=phone_number&app_absent=0" target="_blank"><img alt="Logo WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/cauefidelis" target="_blank"><img alt="Logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://t.me/cauefidelis" target="_blank"><img alt="Telegram Logo" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="mailto:cauefidelis@live.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/felipetaua" target="_blank"><img alt="Telegram Logo" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="mailto:taua.felipee@live.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <!-- /Contacts -->
 
