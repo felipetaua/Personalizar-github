@@ -187,7 +187,7 @@ Você pode encontrar algumas dessas ideias na ferramenta [README Creator](https:
 <div align="center">  
   <h1>
       <img height="30" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728">
-          Hello World! I'm Caue Fidelis
+          Hello World! I'm Tauã Felipe
       <img height="30" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728">
   </h1>
 </div>
