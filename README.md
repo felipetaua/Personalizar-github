@@ -234,7 +234,7 @@ Você pode encontrar algumas dessas ideias na ferramenta [README Creator](https:
 </div>
 <!-- /Contacts -->
 
-> BY: Juvenal Culino
+> BY: Tauã Felipe
 
 > Conteúdo feito para ajudar novos usuários à personalizar seus githubs
 ## Header
